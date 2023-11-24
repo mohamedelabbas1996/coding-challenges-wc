@@ -14,7 +14,7 @@ This project is a clone of the `wc` command line tool, created as part of the co
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/wc-clone.git
+git clone https://github.com/mohamedelabbas1996/coding-challenges-wc
 ```
 ## Usage 
 ```
