@@ -4,7 +4,7 @@
 This project is a clone of the `wc` command line tool, created as part of the coding challenges series by John Cricket. The `wc` command is commonly used in Unix-like operating systems to display the number of lines, words, and characters in a file.
 
 ## Features
-
+- **File Size:** Displays the size of a given file in bytes.
 - **Line Count:** Displays the number of lines in a given file.
 - **Word Count:** Shows the number of words in the specified file.
 - **Character Count:** Reports the total number of characters in the input file.
