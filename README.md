@@ -32,3 +32,6 @@ options:
   -w          shows words count
   -m          shows characters count
 ```
+
+## Credits
+This project was inspired by the [coding challenges series](https://codingchallenges.fyi/challenges/challenge-wc) created by John Crickett. Check out his work and coding challenges.
