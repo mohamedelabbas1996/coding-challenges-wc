@@ -1,7 +1,7 @@
 # coding-challenges-wc
 ## Description
 
-This project is a clone of the `wc` command tool, created as part of the coding challenges series by John Cricket. The `wc` command is commonly used in Unix-like operating systems to display the number of lines, words, and characters in a file.
+This project is a clone of the `wc` command line tool, created as part of the coding challenges series by John Cricket. The `wc` command is commonly used in Unix-like operating systems to display the number of lines, words, and characters in a file.
 
 ## Features
 
